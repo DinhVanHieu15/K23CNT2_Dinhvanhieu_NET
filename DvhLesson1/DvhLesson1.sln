@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DvhLesson1", "DvhLesson1\DvhLesson1.fsproj", "{96C5B10E-9727-4CE1-803A-67FCC65A2C22}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DvhLesson1Mvc", "DvhLesson1Mvc\DvhLesson1Mvc.fsproj", "{5257D1D7-8979-441D-9DD2-20401963B10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96C5B10E-9727-4CE1-803A-67FCC65A2C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C5B10E-9727-4CE1-803A-67FCC65A2C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C5B10E-9727-4CE1-803A-67FCC65A2C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C5B10E-9727-4CE1-803A-67FCC65A2C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5257D1D7-8979-441D-9DD2-20401963B10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5257D1D7-8979-441D-9DD2-20401963B10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5257D1D7-8979-441D-9DD2-20401963B10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5257D1D7-8979-441D-9DD2-20401963B10E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D2C3E31-A53C-45F0-B105-285B443858E5}
+	EndGlobalSection
+EndGlobal

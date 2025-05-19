@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\views\\dvhbook\\dvhcreat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\views\\dvhbook\\dvhcreat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\controllers\\dvhbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\controllers\\dvhbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\controllers\\dvhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\controllers\\dvhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\views\\dvhbook\\dvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\views\\dvhbook\\dvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\models\\dvhbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\models\\dvhbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\views\\dvhhome\\dvhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\views\\dvhhome\\dvhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\views\\dvhhome\\dvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\views\\dvhhome\\dvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\views\\shared\\_dvhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\views\\shared\\_dvhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson04\\dvhlesson04\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{924E1913-874E-4406-88E2-DD284737B4A3}|DvhLesson04\\DvhLesson04.csproj|solutionrelative:dvhlesson04\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DvhCreat.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\DvhBook\\DvhCreat.cshtml",
+              "RelativeDocumentMoniker": "DvhLesson04\\Views\\DvhBook\\DvhCreat.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\DvhBook\\DvhCreat.cshtml",
+              "RelativeToolTip": "DvhLesson04\\Views\\DvhBook\\DvhCreat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T07:18:06.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DvhIndex.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\DvhBook\\DvhIndex.cshtml",
+              "RelativeDocumentMoniker": "DvhLesson04\\Views\\DvhBook\\DvhIndex.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\DvhBook\\DvhIndex.cshtml",
+              "RelativeToolTip": "DvhLesson04\\Views\\DvhBook\\DvhIndex.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T06:52:04.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DvhBook.cs",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Models\\DvhBook.cs",
+              "RelativeDocumentMoniker": "DvhLesson04\\Models\\DvhBook.cs",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Models\\DvhBook.cs",
+              "RelativeToolTip": "DvhLesson04\\Models\\DvhBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:23:19.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DvhAbout.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\DvhHome\\DvhAbout.cshtml",
+              "RelativeDocumentMoniker": "DvhLesson04\\Views\\DvhHome\\DvhAbout.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\DvhHome\\DvhAbout.cshtml",
+              "RelativeToolTip": "DvhLesson04\\Views\\DvhHome\\DvhAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T06:10:56.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DvhIndex.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\DvhHome\\DvhIndex.cshtml",
+              "RelativeDocumentMoniker": "DvhLesson04\\Views\\DvhHome\\DvhIndex.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\DvhHome\\DvhIndex.cshtml",
+              "RelativeToolTip": "DvhLesson04\\Views\\DvhHome\\DvhIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T06:09:58.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "DvhLesson04\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "DvhLesson04\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T06:04:05.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DvhLesson04\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DvhLesson04\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:01:20.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DvhHomeController.cs",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Controllers\\DvhHomeController.cs",
+              "RelativeDocumentMoniker": "DvhLesson04\\Controllers\\DvhHomeController.cs",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Controllers\\DvhHomeController.cs",
+              "RelativeToolTip": "DvhLesson04\\Controllers\\DvhHomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:08:07.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DvhBookController.cs",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Controllers\\DvhBookController.cs",
+              "RelativeDocumentMoniker": "DvhLesson04\\Controllers\\DvhBookController.cs",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Controllers\\DvhBookController.cs",
+              "RelativeToolTip": "DvhLesson04\\Controllers\\DvhBookController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:28:57.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Program.cs",
+              "RelativeDocumentMoniker": "DvhLesson04\\Program.cs",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Program.cs",
+              "RelativeToolTip": "DvhLesson04\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:16:40.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "DvhLesson04\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "DvhLesson04\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T06:05:35.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DvhLesson04\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DvhLesson04\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T05:59:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_DvhLayout.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\Shared\\_DvhLayout.cshtml",
+              "RelativeDocumentMoniker": "DvhLesson04\\Views\\Shared\\_DvhLayout.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson04\\DvhLesson04\\Views\\Shared\\_DvhLayout.cshtml",
+              "RelativeToolTip": "DvhLesson04\\Views\\Shared\\_DvhLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T05:58:59.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

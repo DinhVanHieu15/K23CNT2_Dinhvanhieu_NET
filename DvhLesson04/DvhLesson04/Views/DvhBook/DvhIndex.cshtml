@@ -1,0 +1,32 @@
+﻿@model IEnumerable<DvhLesson04.Models.DvhBook>
+@{
+    ViewData["Title"] = "List Book";
+}
+
+<h1>Thông Tin Các Cuốn Sách</h1>
+<table class=" table table-bordered">
+    <thead>
+        <tr>
+            <th>BookId</th>
+            <th>Title</th>
+            <th>Discription</th>
+            <th>Image</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+         @foreach (DvhBook dvhItem in Model)
+        {
+            <tr>x
+                <td> @dvhItem.DvhId</td
+                <td> @dvhItem.DvhTitle</td>
+                <td> @dvhItem.DvhDescription</td>
+                <td> 
+                   <img src="@dvhItem.DvhImage" alt="@dvhItem.DvhTitle" style="width:100px; height:150px" />
+                    </td>
+                <td> @dvhItem.DvhPrice</td>
+                 
+            </tr>
+        }
+</table>
+    

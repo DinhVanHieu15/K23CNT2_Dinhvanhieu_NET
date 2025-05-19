@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C5B10E-9727-4CE1-803A-67FCC65A2C22}|DvhLesson1\\DvhLesson1.fsproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlesson1\\dvhlesson1\\dvhlesson1.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96C5B10E-9727-4CE1-803A-67FCC65A2C22}|DvhLesson1\\DvhLesson1.fsproj|solutionrelative:dvhlesson1\\dvhlesson1.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DvhLesson1.fsproj",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson1\\DvhLesson1\\DvhLesson1.fsproj",
+              "RelativeDocumentMoniker": "DvhLesson1\\DvhLesson1.fsproj",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLesson1\\DvhLesson1\\DvhLesson1.fsproj",
+              "RelativeToolTip": "DvhLesson1\\DvhLesson1.fsproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
+              "WhenOpened": "2025-04-28T12:29:19.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
