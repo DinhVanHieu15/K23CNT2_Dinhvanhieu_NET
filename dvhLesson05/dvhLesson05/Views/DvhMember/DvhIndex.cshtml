@@ -1,0 +1,30 @@
+﻿@model IEnumerable<dvhLesson05.Models.DataModels.DvhMember>
+@{
+    ViewData["Title"] = "Dvh Danh sách Member";
+}
+
+<h1>@ViewData["Title"]</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>FullName</th>
+            <th>Email</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var member in Model)
+        {
+            <tr>
+                <td>@member.DvhUserName</td>
+                <td>@member.DvhFullName</td>
+                <td>@member.DvhEmail</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@member.DvhMemberId" class="btn btn-primary">Edit</a>
+                    <a asp-action="Details" asp-route-id="@member.DvhMemberId" class="btn btn-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

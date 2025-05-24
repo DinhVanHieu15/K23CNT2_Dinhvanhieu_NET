@@ -15,18 +15,29 @@
         </tr>
     </thead>
     <tbody>
-         @foreach (DvhBook dvhItem in Model)
-        {
-            <tr>x
-                <td> @dvhItem.DvhId</td
-                <td> @dvhItem.DvhTitle</td>
-                <td> @dvhItem.DvhDescription</td>
-                <td> 
-                   <img src="@dvhItem.DvhImage" alt="@dvhItem.DvhTitle" style="width:100px; height:150px" />
+    <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (DvhBook dvhItem in Model)
+                {
+                <tr>
+                    <td>@dvhItem.DvhId</td>
+                    <td>@dvhItem.DvhTitle</td>
+                    <td>@dvhItem.DvhDescription</td>
+                    <td>
+                        <img src="@dvhItem.DvhImage" alt="@dvhItem.DvhTitle" style="width:100px; height:150px" />
                     </td>
-                <td> @dvhItem.DvhPrice</td>
-                 
+                    <td>@dvhItem.DvhPrice</td>
+                </tr>
+                }
+            }
+            else
+            {
+            <tr>
+                <td colspan="5">Không có sách nào để hiển thị.</td>
             </tr>
-        }
+            }
+    </tbody>
+
 </table>
     
