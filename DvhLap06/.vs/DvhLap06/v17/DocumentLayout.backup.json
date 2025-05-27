@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlap06\\dvhlap06\\views\\dvhempolyee\\dvhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|solutionrelative:dvhlap06\\views\\dvhempolyee\\dvhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlap06\\dvhlap06\\controllers\\dvhempolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|solutionrelative:dvhlap06\\controllers\\dvhempolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlap06\\dvhlap06\\views\\dvhempolyee\\dvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|solutionrelative:dvhlap06\\views\\dvhempolyee\\dvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlap06\\dvhlap06\\models\\datamodels\\dvhempolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|solutionrelative:dvhlap06\\models\\datamodels\\dvhempolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlap06\\dvhlap06\\views\\shared\\_dvhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|solutionrelative:dvhlap06\\views\\shared\\_dvhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlap06\\dvhlap06\\controllers\\dvhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|solutionrelative:dvhlap06\\controllers\\dvhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlap06\\dvhlap06\\views\\dvhhome\\dvhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|solutionrelative:dvhlap06\\views\\dvhhome\\dvhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|d:\\k23cnt2_dinhvanhieu_net\\dvhlap06\\dvhlap06\\views\\dvhhome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EFED2F6-6DB0-4CB7-AA77-F28E2E3C4CD7}|DvhLap06\\DvhLap06.csproj|solutionrelative:dvhlap06\\views\\dvhhome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DvhCreate.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Views\\DvhEmpolyee\\DvhCreate.cshtml",
+              "RelativeDocumentMoniker": "DvhLap06\\Views\\DvhEmpolyee\\DvhCreate.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Views\\DvhEmpolyee\\DvhCreate.cshtml",
+              "RelativeToolTip": "DvhLap06\\Views\\DvhEmpolyee\\DvhCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T03:25:02.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DvhHomeController.cs",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Controllers\\DvhHomeController.cs",
+              "RelativeDocumentMoniker": "DvhLap06\\Controllers\\DvhHomeController.cs",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Controllers\\DvhHomeController.cs",
+              "RelativeToolTip": "DvhLap06\\Controllers\\DvhHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:44:21.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_DvhLayout.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Views\\Shared\\_DvhLayout.cshtml",
+              "RelativeDocumentMoniker": "DvhLap06\\Views\\Shared\\_DvhLayout.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Views\\Shared\\_DvhLayout.cshtml",
+              "RelativeToolTip": "DvhLap06\\Views\\Shared\\_DvhLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T01:31:00.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DvhEmpolyee.cs",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Models\\DataModels\\DvhEmpolyee.cs",
+              "RelativeDocumentMoniker": "DvhLap06\\Models\\DataModels\\DvhEmpolyee.cs",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Models\\DataModels\\DvhEmpolyee.cs",
+              "RelativeToolTip": "DvhLap06\\Models\\DataModels\\DvhEmpolyee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T02:08:03.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DvhEmpolyeeController.cs",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Controllers\\DvhEmpolyeeController.cs",
+              "RelativeDocumentMoniker": "DvhLap06\\Controllers\\DvhEmpolyeeController.cs",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Controllers\\DvhEmpolyeeController.cs",
+              "RelativeToolTip": "DvhLap06\\Controllers\\DvhEmpolyeeController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0oAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T02:26:58.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DvhIndex.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Views\\DvhEmpolyee\\DvhIndex.cshtml",
+              "RelativeDocumentMoniker": "DvhLap06\\Views\\DvhEmpolyee\\DvhIndex.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Views\\DvhEmpolyee\\DvhIndex.cshtml",
+              "RelativeToolTip": "DvhLap06\\Views\\DvhEmpolyee\\DvhIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T02:44:15.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DvhAbout.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Views\\DvhHome\\DvhAbout.cshtml",
+              "RelativeDocumentMoniker": "DvhLap06\\Views\\DvhHome\\DvhAbout.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Views\\DvhHome\\DvhAbout.cshtml",
+              "RelativeToolTip": "DvhLap06\\Views\\DvhHome\\DvhAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T01:46:17.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Views\\DvhHome\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DvhLap06\\Views\\DvhHome\\Privacy.cshtml",
+              "ToolTip": "D:\\K23CNT2_Dinhvanhieu_NET\\DvhLap06\\DvhLap06\\Views\\DvhHome\\Privacy.cshtml",
+              "RelativeToolTip": "DvhLap06\\Views\\DvhHome\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T01:39:12.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿@model List<DvhLap06.Models.DataModels.DvhEmpolyee>
+
+@{
+    ViewBag.Title = "Danh sách nhân viên";
+}
+
+<h2>Danh sách nhân viên</h2>
+
+<p>
+    <a href="@Url.Action("DvhCreate")" class="btn btn-success">Thêm mới</a>
+</p>
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Tên</th>
+        <th>Ngày sinh</th>
+        <th>Email</th>
+        <th>Điện thoại</th>
+        <th>Lương</th>
+        <th>Trạng thái</th>
+        <th>Hành động</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.DvhId</td>
+            <td>@item.DvhName</td>
+            <td>@item.DvhBirthDay.ToShortDateString()</td>
+            <td>@item.DvhEmail</td>
+            <td>@item.DvhPhone</td>
+            <td>@item.DvhSalary.ToString("C")</td>
+            <td>@(item.DvhStatus ? "Đang làm" : "Nghỉ")</td>
+            <td>
+                <a class="btn btn-primary btn-sm" href="@Url.Action("DvhEdit", new { id = item.DvhId })">Sửa</a>
+                <a class="btn btn-danger btn-sm" href="@Url.Action("DvhDelete", new { id = item.DvhId })">Xóa</a>
+            </td>
+        </tr>
+    }
+</table>
