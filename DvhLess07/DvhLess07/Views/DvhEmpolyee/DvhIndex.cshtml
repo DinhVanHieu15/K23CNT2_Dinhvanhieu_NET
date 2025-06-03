@@ -1,0 +1,65 @@
+﻿@model IEnumerable<DvhLess07.Models.DvhEmpolyee>
+
+<p>
+    <a asp-action="DvhCreate" class="btn btn-primary">Thêm mới</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DvhId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DvhName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DvhBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DvhEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DvhPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DvhSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DvhStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvhId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvhName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvhBirthDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvhEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvhPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvhSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvhStatus)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "DvhEdit", new {  id=item.DvhId  }) |
+                @Html.ActionLink("Details", "DvhDetails", new {  id=item.DvhId }) |
+                @Html.ActionLink("Delete", "DvhDelete", new { id=item.DvhId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

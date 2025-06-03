@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DvhLap06")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+694ea701728311354b18fda8c5996324dd242a8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60b28b24e1eee893d6dda99f47dc02cce0948811")]
 [assembly: System.Reflection.AssemblyProductAttribute("DvhLap06")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DvhLap06")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

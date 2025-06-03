@@ -1,0 +1,44 @@
+﻿@model DvhLap06.Models.DataModels.DvhEmpolyee
+
+@{
+    ViewBag.Title = "Chỉnh sửa nhân viên";
+}
+
+<h2>Chỉnh sửa nhân viên</h2>
+
+@using (Html.BeginForm("NhtEditPUT", "NhtEmployee", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.DvhId)
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.DvhName)
+        @Html.TextBoxFor(m => m.DvhName, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.DvhBirthDay)
+        @Html.TextBoxFor(m => m.DvhBirthDay, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.DvhEmail)
+        @Html.TextBoxFor(m => m.DvhEmail, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.DvhPhone)
+        @Html.TextBoxFor(m => m.DvhPhone, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.DvhSalary)
+        @Html.TextBoxFor(m => m.DvhSalary, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.DvhStatus)
+        @Html.CheckBoxFor(m => m.DvhStatus)
+    </div>
+
+    <button type="submit" class="btn btn-primary">Cập nhật</button>
+}

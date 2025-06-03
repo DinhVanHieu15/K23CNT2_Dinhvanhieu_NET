@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DvhLess07
+build_property.RootNamespace = DvhLess07
+build_property.ProjectDir = D:\K23CNT2_Dinhvanhieu_NET\DvhLess07\DvhLess07\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\K23CNT2_Dinhvanhieu_NET\DvhLess07\DvhLess07
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/DvhEmpolyee/DvhCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHZoRW1wb2x5ZWVcRHZoQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/DvhEmpolyee/DvhDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHZoRW1wb2x5ZWVcRHZoRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/DvhEmpolyee/DvhDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHZoRW1wb2x5ZWVcRHZoRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/DvhEmpolyee/DvhEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHZoRW1wb2x5ZWVcRHZoRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/DvhEmpolyee/DvhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHZoRW1wb2x5ZWVcRHZoSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/DvhHome/DvhAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHZoSG9tZVxEdmhBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/DvhHome/DvhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHZoSG9tZVxEdmhJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/Shared/DvhNarBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXER2aE5hckJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/K23CNT2_Dinhvanhieu_NET/DvhLess07/DvhLess07/Views/Shared/_DvhLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EdmhMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m813loyxh6

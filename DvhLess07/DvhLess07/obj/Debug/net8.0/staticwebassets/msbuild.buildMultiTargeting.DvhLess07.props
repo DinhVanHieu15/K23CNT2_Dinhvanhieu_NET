@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DvhLess07.props" />
+</Project>
