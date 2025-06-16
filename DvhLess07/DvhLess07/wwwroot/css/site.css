@@ -1,4 +1,4 @@
-html {
+﻿html {
   font-size: 14px;
 }
 
@@ -20,3 +20,71 @@ html {
 body {
   margin-bottom: 60px;
 }
+/* Tổng thể navbar */
+.navbar {
+    background-color: #ffffff; /* nền trắng */
+    border-bottom: 1px solid #dee2e6; /* viền dưới nhẹ */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* đổ bóng nhẹ */
+    padding: 0.5rem 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Logo và tiêu đề */
+.navbar-brand {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #333;
+    text-decoration: none;
+}
+
+    .navbar-brand img {
+        height: 40px;
+        margin-bottom: 5px;
+    }
+
+/* Link menu */
+.navbar-nav .nav-link {
+    color: #343a40;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    transition: color 0.3s ease, background-color 0.3s ease;
+    border-radius: 5px;
+}
+
+    /* Hover link */
+    .navbar-nav .nav-link:hover {
+        background-color: #f0f0f0;
+        color: #007bff;
+    }
+
+    /* Link đang active (nếu bạn dùng thêm class active) */
+    .navbar-nav .nav-link.active {
+        background-color: #007bff;
+        color: white;
+    }
+
+/* Nút toggle trên màn hình nhỏ */
+.navbar-toggler {
+    border: none;
+}
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+/* Responsive: canh giữa logo trên màn hình nhỏ */
+@media (max-width: 576px) {
+    .navbar-brand {
+        align-items: center;
+        text-align: center;
+        width: 100%;
+    }
+
+        .navbar-brand img {
+            margin: 0 auto;
+        }
+}
+
