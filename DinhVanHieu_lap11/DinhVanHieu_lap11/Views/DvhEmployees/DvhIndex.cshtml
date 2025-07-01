@@ -1,0 +1,62 @@
+﻿@model IEnumerable<DinhVanHieu_lap11.Models.DvhEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="DvhCreate" class="btn btn-primary">Thêm mới</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DvhEmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DvhEmpLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DvhEmpStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DvhEmpStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvhEmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvhEmpLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvhEmpStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DvhEmpStatus)
+            </td>
+                @if (item.DvhEmpStatus == true)
+                {
+                    <td class="text-success">Hiển thị</td>
+                }
+                else
+                {
+                    <td class="text-danger">Tạm khoá</td>
+                }
+
+            <td>
+                <a asp-action="DvhEdit" asp-route-Dvhid="@item.DvhEmpId">Edit</a> |
+                <a asp-action="DvhDetails" asp-route-Dvhid="@item.DvhEmpId">Details</a> |
+                <a asp-action="DvhDelete" asp-route-Dvhid="@item.DvhEmpId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

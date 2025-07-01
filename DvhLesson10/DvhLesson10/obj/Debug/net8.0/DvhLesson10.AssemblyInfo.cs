@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DvhLesson10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+694ea701728311354b18fda8c5996324dd242a8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75ad57a5a723079ba4178bc938db0abba5c1d8af")]
 [assembly: System.Reflection.AssemblyProductAttribute("DvhLesson10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DvhLesson10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

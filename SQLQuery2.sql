@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=LAPTOP-LG42FLRB\SQLEXPRESS;Database=DinhVanHieu_lap11;Trusted_Connection=True;MultipleActiveResultSets=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

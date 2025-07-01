@@ -1,0 +1,57 @@
+﻿@model DinhVanHieu_lap11.Models.DvhEmployee
+
+@{
+    ViewData["Title"] = "Sửa thông tin";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="DvhEdit">
+            <div class="card">
+                <div class="card-header">
+                    <h1>@ViewData["Title"]</h1>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                </div>
+                <div class="card-body">
+                    <div class="form-group">
+                        <label asp-for="DvhEmpId" class="control-label"></label>
+                        <input asp-for="DvhEmpId" class="form-control" readonly />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DvhEmpName" class="control-label"></label>
+                        <input asp-for="DvhEmpName" class="form-control" />
+                        <span asp-validation-for="DvhEmpName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DvhEmpLevel" class="control-label"></label>
+                        <input asp-for="DvhEmpLevel" class="form-control" />
+                        <span asp-validation-for="DvhEmpLevel" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DvhEmpStartDate" class="control-label"></label>
+                        <input asp-for="DvhEmpStartDate" class="form-control" />
+                        <span asp-validation-for="DvhEmpStartDate" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DvhEmpStatus" class="control-label"></label>
+                        <input asp-for="DvhEmpStatus" class="form-control" />
+                        <span asp-validation-for="DvhEmpStatus" class="text-danger"></span>
+                    </div>
+
+                </div>
+                <div class="card-footer">
+
+                    <div class="form-group">
+                        <input type="submit" value="Ghi lại" class="btn btn-primary" name="btnDvhUpdate" />
+                        <a asp-action="DvhIndex" class="btn btn-secondary">Back to List</a>
+                    </div>
+
+                </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

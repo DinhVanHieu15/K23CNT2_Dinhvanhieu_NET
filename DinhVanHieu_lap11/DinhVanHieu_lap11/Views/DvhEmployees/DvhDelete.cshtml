@@ -1,0 +1,47 @@
+﻿@model DinhVanHieu_lap11.Models.DvhEmployee
+
+@{
+    ViewData["Title"] = "Are you sure you want to delete this?";
+}
+
+<h1>Delete</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">
+                <h1>@ViewData["Title"]</h1>
+                <h3>Are you sure you want to delete this?</h3>
+            </div>
+            <div class="card-body">
+                <div class="form-group">
+                    <label asp-for="DvhEmpId" class="control-label"></label>
+                    <input asp-for="DvhEmpId" class="form-control" readonly />
+                </div>
+                <div class="form-group">
+                    <label asp-for="DvhEmpName" class="control-label"></label>
+                    <input asp-for="DvhEmpName" class="form-control" readonly />
+                </div>
+                <div class="form-group">
+                    <label asp-for="DvhEmpLevel" class="control-label"></label>
+                    <input asp-for="DvhEmpLevel" class="form-control" readonly />
+                </div>
+                <div class="form-group">
+                    <label asp-for="DvhEmpStartDate" class="control-label"></label>
+                    <input asp-for="DvhEmpStartDate" class="form-control" readonly />
+                </div>
+                <div class="form-group">
+                    <label asp-for="DvhEmpStatus" class="control-label"></label>
+                    <input asp-for="DvhEmpStatus" class="form-control" readonly />
+                </div>
+            </div>
+            <div class="card-footer">
+                <form asp-action="DvhDelete">
+                    <input type="hidden" asp-for="DvhEmpId" />
+                    <input type="submit" value="Xoá" class="btn btn-danger" /> |
+                    <a asp-action="DvhIndex" class="btn btn-secondary">Back to List</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
